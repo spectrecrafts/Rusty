@@ -1,2 +1,3 @@
 -> Rust-1 contains basic datatypes, conditionals, loops and functions<br>
--> Rust-2 contains structs
+-> Rust-2 contains struct<br>
+-> Rust-3 contains enums <br>
