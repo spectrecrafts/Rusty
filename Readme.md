@@ -1,2 +1,2 @@
-->Rust-1 contains basic datatypes, conditionals, loops and functions
-->Rust-2 contains struct
+-> Rust-1 contains basic datatypes, conditionals, loops and functions<br>
+-> Rust-2 contains struct,
