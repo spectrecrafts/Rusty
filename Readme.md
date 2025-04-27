@@ -1,3 +1,4 @@
 -> Rust-1 contains basic datatypes, conditionals, loops and functions<br>
 -> Rust-2 contains struct<br>
 -> Rust-3 contains enums <br>
+-> Rust-4 contains inbuilt enums- Options and Result<br>

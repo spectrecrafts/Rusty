@@ -16,8 +16,10 @@ fn is_even(num: i32) -> bool {
 
 //write a function to give the fibonacci series number
 fn fibonacci(num: i32) -> i32 {
-    let mut first = 0;
-    let mut second = 1;
+    // let mut first = 0;
+    // let mut second = 1;
+
+    let (mut first, mut second) = (0, 1);
     if num == 0 {
         return 0;
     }
