@@ -10,7 +10,6 @@
 enum Shape {
     Rectangle(f64, f64),
     Circle(f64),
-    Square(f64),
 }
 
 fn main() {
@@ -23,7 +22,6 @@ fn print_area(shape: Shape) {
     let area = match shape {
         Shape::Circle(r) => 3.14 * r * r,
         Shape::Rectangle(a, b) => a * b,
-        Shape::Square(s) => s * s,
     };
     println!("The area of the shape is {}", area)
 }
