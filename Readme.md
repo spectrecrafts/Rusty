@@ -1,5 +1,6 @@
--> Rust-1 contains basic datatypes, conditionals, loops and functions<br>
--> Rust-2 contains struct<br>
--> Rust-3 contains enums <br>
--> Rust-4 contains inbuilt enums- Options and Result<br>
--> Rust-5 contains chrono crate
+-> Rust-1 basic datatypes, conditionals, loops and functions<br>
+-> Rust-2 struct<br>
+-> Rust-3 enums <br>
+-> Rust-4 inbuilt enums- Options and Result<br>
+-> Rust-5 chrono crate <br>
+-> Rust-6 ownerships and moving variables
