@@ -4,4 +4,5 @@
 -> Rust-4 inbuilt enums- Options and Result and matches<br>
 -> Rust-5 chrono crate <br>
 -> Rust-6 ownerships and moving variables<br>
--> Rust-7 borrowing references
+-> Rust-7 borrowing references <br>
+-> Rust-8 vector datatype <br>
