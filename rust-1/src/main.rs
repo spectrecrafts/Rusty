@@ -6,7 +6,11 @@ fn main() {
 
     //Taking string as an input
     let s = String::from("Hello world");
-    println!("{}", get_length(&s))
+    println!("{}", get_length(&s));
+
+    let mut name = String::from("Sourav");
+    name.push_str(" Kumar");
+    println!("{}", name);
 }
 
 //write a function is_even to return true if a number is even and false if it is odd
