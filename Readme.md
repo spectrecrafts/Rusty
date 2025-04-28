@@ -1,6 +1,7 @@
 -> Rust-1 basic datatypes, conditionals, loops and functions<br>
 -> Rust-2 struct<br>
 -> Rust-3 enums <br>
--> Rust-4 inbuilt enums- Options and Result<br>
+-> Rust-4 inbuilt enums- Options and Result and matches<br>
 -> Rust-5 chrono crate <br>
--> Rust-6 ownerships and moving variables
+-> Rust-6 ownerships and moving variables<br>
+-> Rust-7 borrowing references
