@@ -6,3 +6,5 @@
 -> Rust-6 ownerships and moving variables<br>
 -> Rust-7 borrowing references <br>
 -> Rust-8 vector datatype <br>
+-> Rust-9 hashmaps <br>
+-> Rust-10 Iterators
